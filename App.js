@@ -5,6 +5,7 @@ import { StyleSheet, Text } from 'react-native';
 
 import MainNavigator from './src/components/navigation/MainNavigator';
 import TaskScreen from "./src/components/screens/Task/TaskScreen";
+import ProfileScreen from './src/components/screens/Profile/ProfileScreen';
 
 export default function App() {
   return (
